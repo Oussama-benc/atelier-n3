@@ -1,0 +1,7 @@
+C:\Users\C.Ghyzlane\source\repos\Atelier N1 G12\Atelier N1 G12\bin\Debug\Atelier N1 G12.exe.config
+C:\Users\C.Ghyzlane\source\repos\Atelier N1 G12\Atelier N1 G12\bin\Debug\Atelier N1 G12.exe
+C:\Users\C.Ghyzlane\source\repos\Atelier N1 G12\Atelier N1 G12\bin\Debug\Atelier N1 G12.pdb
+C:\Users\C.Ghyzlane\source\repos\Atelier N1 G12\Atelier N1 G12\obj\Debug\Atelier N1 G12.csprojAssemblyReference.cache
+C:\Users\C.Ghyzlane\source\repos\Atelier N1 G12\Atelier N1 G12\obj\Debug\Atelier N1 G12.csproj.CoreCompileInputs.cache
+C:\Users\C.Ghyzlane\source\repos\Atelier N1 G12\Atelier N1 G12\obj\Debug\Atelier N1 G12.exe
+C:\Users\C.Ghyzlane\source\repos\Atelier N1 G12\Atelier N1 G12\obj\Debug\Atelier N1 G12.pdb
